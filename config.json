@@ -1,0 +1,22 @@
+{
+  "game": {
+    "emulator_path": "C:\\Program Files\\BlueStacks_nxt\\HD-Player.exe",
+    "package_name": "com.mmo.android",
+    "instance_name": "Pie64",
+    "resolution": {
+      "width": 1333,
+      "height": 775
+    }
+  },
+  "bot": {
+    "loop_delay": 0.1,
+    "confidence_threshold": 0.3,
+    "attack_key": "7",
+    "hp_potion_key": "5",
+    "mp_potion_key": "6"
+  },
+  "gui": {
+    "theme": "dark",
+    "font_size": 10
+  }
+}
